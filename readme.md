@@ -9,7 +9,7 @@ Nesse repositório estão as soluções dos desafios propostos para vaga de est�
 
 ## 🛠️ Tarefas
 
-1. **[Tarefa 1]**  
+1. **[Tarefa 1]**  TAREFA_1.py
 Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
